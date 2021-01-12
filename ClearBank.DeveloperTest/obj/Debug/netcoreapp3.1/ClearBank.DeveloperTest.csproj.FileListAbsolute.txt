@@ -1,0 +1,8 @@
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.deps.json
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\bin\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.AssemblyInfo.cs
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.dll
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.pdb
+C:\Users\gulat\Downloads\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\netcoreapp3.1\ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
